@@ -120,4 +120,13 @@
   <data name="Property_Name" xml:space="preserve">
     <value>Name</value>
   </data>
+  <data name="Property_Type" xml:space="preserve">
+    <value>Тип</value>
+  </data>
+  <data name="Enum_Type_access" xml:space="preserve">
+    <value>обращение</value>
+  </data>
+  <data name="Enum_Type_wish" xml:space="preserve">
+    <value>пожелание</value>
+  </data>
 </root>
